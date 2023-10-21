@@ -22,7 +22,6 @@ int main()
 
 //OUTPUT
 //Enter decimal value to convert to binary:- 34
-
-Entered number was 34 the convereted binary number is: 00100010
-Setting the bit: 38
-Resetting the bit: 0
+//Entered number was 34 the convereted binary number is: 00100010
+//Setting the bit: 38
+//Resetting the bit: 0
