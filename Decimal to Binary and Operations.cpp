@@ -20,10 +20,7 @@ int main()
 
 //OUTPUT
 //Enter decimal value to convert to binary:- 34
-
-How much do you want to shift to right:-2
-
-How much do you want to shift to left:-2
-
-Shifting the bit to the left give us:- 136
-Shifting the bit to the right give us:- 8
+//How much do you want to shift to right:-2
+//How much do you want to shift to left:-2
+//Shifting the bit to the left give us:- 136
+//Shifting the bit to the right give us:- 8
